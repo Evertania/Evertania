@@ -1,7 +1,7 @@
  Olá, eu sou a Evertânia 👋
 
 🎓 Pós-graduada em Logística e Supply Chain  
-🎓 Estudante de Análise e desenvolvimento de Sistemas  (1° Semestre)
+🎓 Estudante de Análise e desenvolvimento de Sistemas  (1° Semestre)   
 📊 Experiência em Customer Service, Logística e Operações  
 💻 Conhecimentos em **Excel Avançado, Power BI, SAP EWM, Oracle, HTML, CSS, JavaScript e Python**
 🌎 Estudando Inglês e Espanhol  
