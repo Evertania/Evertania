@@ -27,6 +27,6 @@
 <a href="https://www.linkedin.com/in/evert%C3%A2nia-louren%C3%A7o-da-silva-76a82334a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="lourencoevertania@gmail.com">
+<a href="mailto:lourencoevertania@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
